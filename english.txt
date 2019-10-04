@@ -1,0 +1,124 @@
+hello
+hi
+good morning
+good afternoon
+good evening
+good bye
+see you later
+good night
+I — my
+you — your
+he – his
+she – her
+it – its
+we – our
+they — their
+who — whose
+what
+My name is…
+What is your name?
+I am…( Nancy)
+How old are you?
+I am…(eighteen, thirsty)
+Where are you from?
+I am from…(Russia, Ukraine)
+Nice to meet you!
+mother
+father
+daughter
+son
+brother
+sister
+grandmother
+grandfather
+uncle
+aunt
+friends
+the best friend
+city, town
+country
+street
+square
+forest
+field
+village
+map
+river
+lake
+hospital
+restaurant, cafe
+police office
+hotel
+club
+shop
+school
+airport
+railway station
+cinema
+post office
+library
+park
+pharmacy
+good
+bad
+beautiful
+different
+big
+free
+easy
+difficult
+rich
+poor
+feel
+eat
+drink
+go/walk
+have
+do
+can
+come
+see
+hear
+know
+write
+learn
+open
+say
+work
+sit
+get
+like
+time
+at … (5, 7) o’clock
+a.m.
+p.m.
+today
+yesterday
+tomorrow
+in the morning
+in the evening
+here
+there
+always
+well
+only
+up
+down
+right
+wrong
+left
+a (an)
+the
+at
+to
+for
+from
+in
+about
+that
+which
+because
+so
+when
+before
+but
